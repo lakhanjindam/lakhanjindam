@@ -6,10 +6,10 @@
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white&style=plastic" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&style=plastic" />
 <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-ea2845?style=flat-square&logo=next.js&logoColor=black&style=plastic" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white&style=plastic" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-56D110?style=flat-square&logo=Node.js&logoColor=black&style=plastic" />
 <img alt="Ruby" src="https://img.shields.io/badge/Ruby-DD0031?style=flat-square&logo=ruby&logoColor=white&style=plastic" />
-<img alt="Python" src="https://img.shields.io/badge/Python-FFFF09?style=flat-square&logo=python&logoColor=white&style=plastic" />
-<img alt="Javascript" src="https://img.shields.io/badge/Javascript-FFDD00?style=flat-square&logo=javascript&logoColor=white&style=plastic" />
+<img alt="Python" src="https://img.shields.io/badge/Python-0000FF?style=flat-square&logo=python&logoColor=white&style=plastic" />
+<img alt="Javascript" src="https://img.shields.io/badge/Javascript-FFDD00?style=flat-square&logo=javascript&logoColor=black&style=plastic" />
 <img alt="Dart" src="https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=white&style=plastic" />
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-00CAFF?style=flat-square&logo=dart&logoColor=white&style=plastic" />
 </p>
