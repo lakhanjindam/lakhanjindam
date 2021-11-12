@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1471045840/795/cool.gif?1471045840" width="30"/> Hey! Fellas check this out!</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1471045840/795/cool.gif?1471045840" width="30"/> Hey! Fellas welcome to my githib profile 👍</h1>
 <p>I'm Lakhan Jindam.<br>Working as a Software development engineer in Test at BrowserStack.</p>
 <h3>Technical stuff that I have worked with</h3>
 <p>
