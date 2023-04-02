@@ -12,4 +12,9 @@
 <img alt="Javascript" src="https://img.shields.io/badge/Javascript-FFDD00?style=flat-square&logo=javascript&logoColor=black&style=plastic" />
 <img alt="Dart" src="https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=white&style=plastic" />
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-00CAFF?style=flat-square&logo=dart&logoColor=white&style=plastic" />
+<img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white&style=plastic" />
+<img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white&style=plastic" />
+<img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white&style=plastic" />
+<img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&style=plastic" />
+<img alt="Go" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&style=plastic" />
 </p>
