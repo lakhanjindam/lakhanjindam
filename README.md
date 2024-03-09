@@ -1,5 +1,5 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1471045840/795/cool.gif?1471045840" width="30"/> Hey Folks! welcome to my GitHub profile 👍</h1>
-<p>I'm Lakhan Jindam.<br>Working as a Software Engineer at Twilio.</p>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1471045840/795/cool.gif?1471045840" width="30"/> Howdy, I'm Lakhan!</h1>
+<p>I am Working as a Software Engineer at Twilio</p>
 <h3>Technical stuff that I have worked with</h3>
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white&style=plastic"/>
