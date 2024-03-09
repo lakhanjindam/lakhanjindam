@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1471045840/795/cool.gif?1471045840" width="30"/> Howdy, I'm Lakhan!</h1>
 <p>I am Working as a Software Engineer at Twilio</p>
-<h1>Technical stuff that I have worked with</h3>
+<h2>Technical stuff that I have worked with</h2>
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white&style=plastic"/>
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white&style=plastic" />
