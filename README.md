@@ -21,13 +21,17 @@
 <h3>Frameworks</h3>
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-56D110?style=flat-square&logo=Node.js&logoColor=black&style=plastic" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/flutter-black?logo=flutter&logoColor=blue" />
 </p>
 
 <h3>CI/CD</h3>
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github" />
 <p>
-  
+<img alt="Static Badge" src="https://img.shields.io/badge/github-black?logo=github&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/buildkite-black?logo=buildkite&logoColor=%2311F076">
+<img alt="Static Badge" src="https://img.shields.io/badge/argoCD-black?logo=argo">
+
 </p>
+  
 <h3>DevOps and Cloud Computing</h3>
 <p>
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white&style=plastic" />
