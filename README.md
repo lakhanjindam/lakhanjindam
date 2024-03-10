@@ -79,9 +79,7 @@
 </p>
 
 <h3>Certifications</h3>
-<p>
-<img alt="Static Badge" src="https://img.shields.io/badge/ckad-white?style=for-the-badge&logo=kubernetes&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2Fa0899223-376a-4628-ae47-e62d946f72b7">
 
-<img alt="Static Badge" src="https://img.shields.io/badge/terraform-white?style=for-the-badge&logo=terraform&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F29b267cc-2f03-4d1b-a71a-f5a9994d6bc2">
+[![CKAD](https://img.shields.io/badge/ckad-white?style=for-the-badge&logo=kubernetes)](https://www.credly.com/badges/a0899223-376a-4628-ae47-e62d946f72b7)
 
-</p>
+[![Terraform Associate(003)](https://img.shields.io/badge/terraform_associate-white?style=for-the-badge&logo=terraform)](https://www.credly.com/badges/29b267cc-2f03-4d1b-a71a-f5a9994d6bc2)
