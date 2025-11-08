@@ -110,6 +110,15 @@ I'm a Software Engineer at Twilio, based in India. I'm passionate about building
         <img alt="Envoy" src="https://img.shields.io/badge/Envoy-888888?style=for-the-badge&logo=envoy&logoColor=white" />
         <img alt="PagerDuty" src="https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white" />
       </p>
+      <h3>AI/ML</h3>
+      <p>
+        <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-100000?style=for-the-badge&logo=github&logoColor=white" />
+        <img alt="Perplexity" src="https://img.shields.io/badge/Perplexity-black?style=for-the-badge" />
+        <img alt="Google Gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B7?style=for-the-badge&logo=googlebard&logoColor=white" />
+        <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+        <img alt="CrewAI" src="https://img.shields.io/badge/CrewAI-1A2B6D?style=for-the-badge" />
+        <img alt="Make" src="https://img.shields.io/badge/Make-6F42C1?style=for-the-badge&logo=make&logoColor=white" />
+      </p>
     </td>
   </tr>
 </table>
