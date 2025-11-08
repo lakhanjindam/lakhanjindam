@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Lakhan
 
-I'm a Software Engineer at Twilio, based in India. I'm passionate about building scalable and resilient systems and I love to explore new technologies. 🚀
+I'm a Software Engineer based in India. I'm passionate about building scalable and resilient systems and I love to explore new technologies. 🚀
 
 </div>
 
@@ -23,7 +23,7 @@ I'm a Software Engineer at Twilio, based in India. I'm passionate about building
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=CCCCCC&width=435&lines=Software+Engineer+at+Twilio;Full-Stack+Developer;Cloud+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=CCCCCC&width=435&lines=Software+Engineer+at+Talkdesk;Full-Stack+Developer;Cloud+Enthusiast" alt="Typing SVG">
 </div>
 
 <hr>
@@ -35,6 +35,11 @@ I'm a Software Engineer at Twilio, based in India. I'm passionate about building
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
+<hr>
+
+## WORK EXPERIENCE
+- 🔭 I’m currently working as a Software Engineer at **Talkdesk**
 
 <hr>
 
