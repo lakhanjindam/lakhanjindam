@@ -9,13 +9,13 @@ I'm a Software Engineer at Twilio, based in India. I'm passionate about building
 <div align="center">
 
 <a href="https://github.com/Lakhan-Nad">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lakhan-Nad&show_icons=true&theme=radical" alt="Lakhan's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lakhan-Nad&show_icons=true&theme=dark" alt="Lakhan's GitHub stats">
 </a>
 <a href="https://github.com/Lakhan-Nad">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakhan-Nad&theme=radical" alt="Lakhan's GitHub streak stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakhan-Nad&theme=dark" alt="Lakhan's GitHub streak stats">
 </a>
 <a href="https://github.com/Lakhan-Nad">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhan-Nad&layout=compact&theme=radical" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhan-Nad&layout=compact&theme=dark" alt="Top Langs">
 </a>
 
 </div>
@@ -23,26 +23,24 @@ I'm a Software Engineer at Twilio, based in India. I'm passionate about building
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&width=435&lines=Software+Engineer+at+Twilio;Full-Stack+Developer;Cloud+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=CCCCCC&width=435&lines=Software+Engineer+at+Twilio;Full-Stack+Developer;Cloud+Enthusiast" alt="Typing SVG">
 </div>
 
 <hr>
 
 ## SOCIALS
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/lakhan-nad/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://twitter.com/lakhan_nad" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-</a>
-<a href="mailto:lakhannad45@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lakhan-nad/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/lakhan_nad" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:lakhannad45@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
 <hr>
 
