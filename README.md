@@ -23,7 +23,7 @@ I'm a Software Engineer based in India. I'm passionate about building scalable a
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=CCCCCC&width=435&lines=Software+Engineer+at+Talkdesk;Full-Stack+Developer;Cloud+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=CCCCCC&width=435&lines=Software+Engineer+at+Talkdesk;Platform+Engineer;AI+Enthusiast;Backend+Engineer;Technophile" alt="Typing SVG">
 </div>
 
 <hr>
