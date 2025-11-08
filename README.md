@@ -124,6 +124,7 @@ I'm a Software Engineer at Twilio, based in India. I'm passionate about building
 <div align="center">
 
 [![CKAD](https://img.shields.io/badge/ckad-white?style=for-the-badge&logo=kubernetes)](https://www.credly.com/badges/a0899223-376a-4628-ae47-e62d946f72b7)
+[![CKA](https://img.shields.io/badge/cka-white?style=for-the-badge&logo=kubernetes)](https://www.credly.com/badges/552a217c-f1eb-4878-8675-0ccd4dbf4b97/public_url)
 [![Terraform Associate(003)](https://img.shields.io/badge/terraform_associate-white?style=for-the-badge&logo=terraform)](https://www.credly.com/badges/29b267cc-2f03-4d1b-a71a-f5a9994d6bc2)
 
 </div>
