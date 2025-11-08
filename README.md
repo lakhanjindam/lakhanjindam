@@ -31,14 +31,8 @@ I'm a Software Engineer at Twilio, based in India. I'm passionate about building
 ## SOCIALS
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lakhan-nad/" target="_blank">
+  <a href="https://www.linkedin.com/in/lakhan-jindam/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/lakhan_nad" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="mailto:lakhannad45@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
@@ -130,6 +124,7 @@ I'm a Software Engineer at Twilio, based in India. I'm passionate about building
 <div align="center">
 
 [![CKAD](https://img.shields.io/badge/ckad-white?style=for-the-badge&logo=kubernetes)](https://www.credly.com/badges/a0899223-376a-4628-ae47-e62d946f72b7)
+[![CKA](https://img.shields.io/badge/cka-white?style=for-the-badge&logo=kubernetes)](https://www.credly.com/badges/552a217c-f1eb-4878-8675-0ccd4dbf4b97/public_url)
 [![Terraform Associate(003)](https://img.shields.io/badge/terraform_associate-white?style=for-the-badge&logo=terraform)](https://www.credly.com/badges/29b267cc-2f03-4d1b-a71a-f5a9994d6bc2)
 
 </div>
