@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Lakhan
 
-I'm a Software Engineer based in India. I'm passionate about building scalable and resilient systems and I love to explore new technologies. 🚀
+I'm a Senior Software Engineer at Talkdesk based in India. I'm passionate about building scalable and resilient systems and I love to explore new technologies. 🚀
 
 </div>
 
@@ -35,11 +35,6 @@ I'm a Software Engineer based in India. I'm passionate about building scalable a
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
-<hr>
-
-## WORK EXPERIENCE
-- 🔭 I’m currently working as a Software Engineer at **Talkdesk**
 
 <hr>
 
