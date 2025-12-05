@@ -8,14 +8,14 @@ I'm a Senior Software Engineer at Talkdesk based in India. I'm passionate about 
 
 <div align="center">
 
-<a href="https://github.com/Lakhan-Nad">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lakhan-Nad&show_icons=true&theme=dark" alt="Lakhan's GitHub stats">
+<a href="https://github.com/lakhanjindam">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lakhanjindam&show_icons=true&theme=dark" alt="Lakhan's GitHub stats">
 </a>
-<a href="https://github.com/Lakhan-Nad">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakhan-Nad&theme=dark" alt="Lakhan's GitHub streak stats">
+<a href="https://github.com/lakhanjindam">
+  <img src="https://streak-stats.demolab.com/?user=lakhanjindam&theme=dark" alt="Lakhan's GitHub streak stats">
 </a>
-<a href="https://github.com/Lakhan-Nad">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhan-Nad&layout=compact&theme=dark" alt="Top Langs">
+<a href="https://github.com/lakhanjindam">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lakhanjindam&layout=compact&theme=dark" alt="Top Langs">
 </a>
 
 </div>
